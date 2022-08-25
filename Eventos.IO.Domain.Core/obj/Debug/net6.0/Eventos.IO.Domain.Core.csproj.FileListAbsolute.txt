@@ -1,0 +1,12 @@
+C:\Users\João\source\repos\Eventos.IO\Eventos.IO.Domain.Core\bin\Debug\net6.0\Eventos.IO.Domain.Core.deps.json
+C:\Users\João\source\repos\Eventos.IO\Eventos.IO.Domain.Core\bin\Debug\net6.0\Eventos.IO.Domain.Core.dll
+C:\Users\João\source\repos\Eventos.IO\Eventos.IO.Domain.Core\bin\Debug\net6.0\Eventos.IO.Domain.Core.pdb
+C:\Users\João\source\repos\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net6.0\Eventos.IO.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\João\source\repos\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net6.0\Eventos.IO.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\source\repos\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net6.0\Eventos.IO.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\João\source\repos\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net6.0\Eventos.IO.Domain.Core.AssemblyInfo.cs
+C:\Users\João\source\repos\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net6.0\Eventos.IO.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net6.0\Eventos.IO.Domain.Core.dll
+C:\Users\João\source\repos\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net6.0\refint\Eventos.IO.Domain.Core.dll
+C:\Users\João\source\repos\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net6.0\Eventos.IO.Domain.Core.pdb
+C:\Users\João\source\repos\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net6.0\ref\Eventos.IO.Domain.Core.dll
